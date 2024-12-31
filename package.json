@@ -1,7 +1,7 @@
 {
   "name": "shashankshet",
   "version": "1.0.0",
-  "description": "A personal card for Karan Pratap Singh",
+  "description": "A personal card for Shashank Shet",
   "main": "/bin/card.js",
   "bin": {
     "shashankshet": "./bin/card.js"
@@ -24,7 +24,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Karan Pratap Singh <contact@shashankshet.com> (https://shashank-shet.vercel.app/)",
+  "author": "Shashank Shet <contact@shashankshet.com> (https://shashank-shet.vercel.app/)",
   "license": "MIT",
   "files": [
     "bin/card.js",
